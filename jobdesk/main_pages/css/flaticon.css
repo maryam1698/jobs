@@ -1,0 +1,60 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 09/05/2019 07:35
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/Flaticon.eot");
+  src: url("../fonts/Flaticond41dd41d.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Flaticon.woff2") format("woff2"),
+       url("../fonts/Flaticon.woff") format("woff"),
+       url("../fonts/Flaticon.ttf") format("truetype"),
+       url("../fonts/Flaticon.html#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("Flaticon.html#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+  font-size: 16px;
+font-style: normal;
+}
+
+.flaticon-man-user:before { content: "\f100"; }
+.flaticon-login:before { content: "\f101"; }
+.flaticon-map:before { content: "\f102"; }
+.flaticon-squares-gallery-grid-layout-interface-symbol:before { content: "\f103"; }
+.flaticon-statistics:before { content: "\f104"; }
+.flaticon-tag:before { content: "\f105"; }
+.flaticon-code:before { content: "\f106"; }
+.flaticon-laptop:before { content: "\f107"; }
+.flaticon-bar-chart:before { content: "\f108"; }
+.flaticon-doctor:before { content: "\f109"; }
+.flaticon-city-hall:before { content: "\f10a"; }
+.flaticon-newspaper:before { content: "\f10b"; }
+.flaticon-lunch:before { content: "\f10c"; }
+.flaticon-long-right-arrow:before { content: "\f10d"; }
+.flaticon-right-arrow:before { content: "\f10f"; }
+.flaticon-left-arrow:before { content: "\f10e"; }
+.flaticon-star:before { content: "\f110"; }
+.flaticon-star-1:before { content: "\f111"; }
+.flaticon-location-pointer:before { content: "\f112"; }
+.flaticon-telephone:before { content: "\f113"; }
+.flaticon-envelope:before { content: "\f114"; }
+.flaticon-cash:before { content: "\f115"; }
+.flaticon-play-button:before { content: "\f116"; }
+.flaticon-four-grid-layout-design-interface-symbol:before { content: "\f117"; }
+.flaticon-apple:before { content: "\f118"; }
+.flaticon-amazon:before { content: "\f119"; }
+.flaticon-android-logo:before { content: "\f11a"; }
+.flaticon-folder:before { content: "\f11b"; }
+.flaticon-list:before { content: "\f11c"; }

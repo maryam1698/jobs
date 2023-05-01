@@ -1,0 +1,435 @@
+@media (max-width: 1750px){
+	.jn_menu_partion_div:after{
+		right:40%;
+	}
+}
+@media (max-width: 1550px){
+	.jn_menu_partion_div:after {
+		right: 54%;
+	}
+	.menu_btn_box:after{
+		left:-26px;
+	}	
+}
+@media (max-width: 1430px){
+	.jn_menu_partion_div:after {
+		right: 63%;
+	}
+	.header_btn li{
+		margin-right:5px;
+	}
+	.cp_logo_wrapper{
+	}
+	.jb_navigation_wrapper{
+		padding-left:50px;
+	}
+	.menu_btn_box{
+	}
+	.menu_btn_box:after{
+		display:none;
+	}
+	.mainmenu ul li a{
+		padding:40px 20px 30px 20px;
+	}
+}
+@media (max-width: 1330px){
+	.menu_btn_box:after {
+		left: -14px;
+	}
+	.mainmenu ul li a{
+		padding:40px 20px 30px 20px;
+	}
+	.jb_navigation_wrapper{
+		padding-left:0;
+	}
+}
+@media (max-width: 1220px){
+	.menu_btn_box:after {
+		display:none;
+	}
+	.header_btn li:last-child{
+		margin-right:0;
+	}
+}
+@media (max-width: 1199px) and (min-width: 991px){
+	.header_btn li:first-child a{
+		display:none;
+	}
+	.jn_menu_partion_div:after {
+		right: 60%;
+	}
+	.cp_logo_wrapper{width:20%; padding-left:0;}
+	.menu_btn_box{
+		width:15%;
+	}
+	.header_btn ul{float:right;}
+	.jb_navigation_wrapper{
+		width:65%;
+	}
+	.mainmenu ul li a{
+		padding:40px 14px 30px 14px;
+	}
+	.browsevideo{width:100%;}
+	.job_main_overflow {
+		overflow: auto;
+	}
+	.blog_pagination_section {
+		padding-bottom:10px;
+	}
+	.download_btn_wrapper li:first-child a{
+		display:block;
+	}
+	.download_btn_wrapper li:last-child{
+		margin-right:20px
+	}
+	.wrapper .nice-select{
+		right:19%;
+	}
+	.pricing_box_wrapper h2{
+		font-size:80px;
+	}
+	.monthly{
+		top:0;
+		left:18px;
+	}
+	.conversation-write-wrap form textarea{
+		width:calc(100% - 112px);
+	}
+	.jb_profile_box .luca_profile_wrapper{
+		display:none;
+	}
+	.jb_profile_box img{
+		width:40px;
+	}
+}
+
+@media (max-width: 991px){
+	.mobail_menu{
+		float:left;
+		width:auto;
+	}
+	.cd-dropdown-wrapper{
+		margin: 39px 0% 0 0;
+	}
+	.header_btn ul{
+		float:right;
+	}
+	.house_toggle .menubar{
+		fill:#ff3366;
+	}
+	.cp_logo_wrapper{
+		width:25%;
+		padding-left:10px;
+	}
+	.menu_btn_box{
+		width:60%;
+		padding-right:10px;
+	}
+	.header_btn li{
+		margin-right:18px;
+	}
+	.icon_list_news{
+		margin-top:0;
+	}
+	.copyright_left{
+		padding-top:0;
+	}
+	.footer_border_displ{
+		margin-bottom:50px;
+	}
+	.footer_first_contact li{
+		padding-bottom:15px;
+	}
+	.job_newsletter_wrapper{
+		border:0; padding:0;
+	}
+	.emp_web_profile {
+		padding: 50px 30px 35px 30px;
+	}
+	.emp_dashboard_sidebar{
+		margin-bottom:50px;
+	}
+	.jp_job_post_right_cont li{
+		margin-right:5px;
+	}
+	.jb_newslwtteter_left, .jb_newslwtteter_button{
+		width:100%;
+	}
+	.job_newsletter_wrapper{
+		margin:80px 0;
+	}
+	.news_btn a {
+		float: right;
+		width: 200px;
+		margin-top: 30px;
+	}
+	.job_main_overflow {
+		overflow: auto;
+	}
+	.blog_pagination_section {
+		padding-bottom:10px;
+	}
+	.download_btn_wrapper li:last-child{
+		margin-right:20px
+	}
+	.wrapper .nice-select{
+		right:19%;
+	}
+	.conversation-write-wrap form textarea{
+		width:calc(100% - 112px);
+	}
+	.jb_profile_box .nice-select{
+		float:left;
+	}
+}
+@media (max-width: 767px){
+	.sub_title_section{
+		float:left;
+	}
+	.jp_job_post_right_btn_wrapper a{
+		float:right;
+	}
+	.appbtn  a{float:right;}
+	.browse_img_banner .jp_job_post_side_img{
+		width:100%;
+	}
+	.browse_img_banner .jp_job_post_right_cont{
+		width:100%;
+		padding-left:0;
+		padding-top:30px;
+	}
+	.image_gallery li{
+		margin-bottom:15px;
+	}
+	.wrapper button{
+		width:20pt;
+	}
+	.jb_job_post_right_cont li{
+		margin-right:0;
+	}
+	.jb_job_post_right_btn_wrapper ul{
+		float:left;
+		width:100%;
+		margin-top:15px;
+	}
+	.jb_job_post_right_btn_wrapper li:last-child{
+		margin:0;
+		margin-left:15px;
+	}
+	.main_pdet:before, .main_pdet:after{
+		display:none;
+	}
+	.monthly{left:-68px;}
+	.pricing_box_wrapper{
+		margin-top:40px;
+	}
+	.pricing-controller{
+		margin-bottom:0;
+	}
+	.dashboard-message-wrapper .message-lists{
+		width:100%; min-width: 100%;
+		border-bottom:1px solid #e2e2e2;
+	}
+	.dashboard-message-wrapper{
+		display:inline-block;
+	}
+	.drop{
+		display:none;
+	}
+	#return-to-top{
+		width:50px;
+		height:50px;
+		line-height:52px;
+	}
+	#chat-circle{
+		width:50px;
+		height:50px;
+		line-height:40px;
+	}
+	#return-to-top i{
+		font-size:22px;
+	}
+	#return-to-top{
+		bottom:90px;
+	}
+}
+
+@media (max-width: 580px){
+	.header_btn li:first-child a{
+		display:none;
+	}
+	.cp_logo_wrapper{
+		padding-left:0;
+	}
+	.cd-dropdown-wrapper{
+		left:-10px;
+	}
+	.menu_btn_box{
+		padding-right:0;
+		margin-right:-20px;
+	}
+	.footer_border_displ{margin-bottom:30px;}
+	.icon_list_news {
+		margin-bottom:50px;
+	}
+	.sub_title_section{
+		float:right;
+		top:0;
+	}
+	.appbtn  a{float:left;}
+	.download_btn_wrapper li:first-child a{
+		display:block;
+	}
+	.wrapper .nice-select {
+		right: 8%;
+	}
+	.pricing-controller{
+		margin-bottom:0;
+		padding-left:10px;
+	}
+	.pricing_box_wrapper h2{
+		font-size:80px;
+	}
+	#chat-circle{
+		z-index:1000;
+	}
+	.monthly {
+		left: -51px;
+	}
+	.jb_profile_box .luca_profile_wrapper{
+		display:none;
+	}
+	.jb_profile_box .nice-select{
+		padding-right:20px;
+	}
+	.jb_profile_box img{
+		width:40px;
+	}
+}
+@media (max-width: 480px){
+	.cd-dropdown{
+		width:300px;
+	}
+	.page_header h1{
+		font-size:30px;
+		line-height:36px;
+	}
+	.seperator{
+		display:none;
+	}
+	.wrapper button {
+		width: 17pt;
+	}
+	.wrapper .nice-select {
+		right: 4%;
+	}
+	.wrapper .nice-select{
+		display:none;
+	}
+}
+@media (max-width: 440px){
+	.jp_job_post_right_cont{
+		padding-top:0;
+		padding-right:12px;
+	}
+	.jp_job_post_right_cont h4{
+		font-size:18px;
+		line-height:24px;
+		padding-bottom:3px;
+	}
+	.jb_job_post_right_cont{
+		width:100%;
+		padding-left:0;
+		padding-top:20px;
+	}
+	.jb_job_post_right_btn_wrapper li:nth-child(2){
+		float:left; width:100%;
+		margin-left:0; margin-top:10px;
+	}
+	.jb_job_post_right_btn_wrapper li:last-child{
+		margin-left:0;
+		margin-top:10px;
+	}
+	.pricing-controller .duration{
+		margin-right:15px;
+	}
+	.pricing-controller .switch-wrap{
+		margin-right:15px;
+	}
+	.monthly {
+		left: 0;
+	}
+	.message-box .dashboard-conversation .conversation .message{
+		width:100%;
+	}
+	.message-box .dashboard-conversation .conversation{
+		display:inline-block;
+		margin-bottom:0;
+	}
+	.message-box .dashboard-conversation .conversation.in .message, .message-box .dashboard-conversation .conversation.out .message{
+		margin-top:20px;
+	}
+	.message-box .dashboard-conversation .conversation .send-time{
+		line-height:50px;
+	}
+	.message-box .dashboard-conversation .conversation.out .avater{
+		margin-left:0;
+	}
+	.conversation-write-wrap form textarea{width:100%;}
+	.conversation-write-wrap{
+		padding:20px 15px;
+	}
+	.send-file{
+		position:relative;
+		right:0;
+	}
+	.send-image{
+		position:relative;
+		left: -110px;
+	}
+	.conversation-write-wrap form .send-message{
+		position:relative;
+		top:12px;
+	}
+}
+@media (max-width: 380px){
+	.jp_job_post_right_cont{
+		padding-top:15px;
+		width:100%;
+		padding-left:0;
+	}
+	.apps_wrapper  .jp_job_post_right_cont{
+		width:auto;
+	}
+	.header_btn li:last-child{
+		display:none;
+	}
+	.jb_newslwtteter_left h2{
+		font-size:32px;
+	}
+	.download_btn_wrapper li:last-child{
+		display:block;
+	}
+	.wrapper .nice-select, .wrapper input[type="number"],  .duration span{
+		display:none;
+	}
+	.monthly {
+		left: 0; top:10px;
+	}
+	.pricing-controller{
+		padding-left:0;
+	}
+	.pricing-controller .duration, .pricing-controller .switch-wrap {
+		margin-right: 20px;
+	}
+	.send-image {
+		position: relative;
+		left: -90px;
+	}
+	.jb_profile_box .nice-select{
+		padding-right:10px;
+	}
+	#return-to-top, #chat-circle{
+		right:30px;
+	}
+}

@@ -1,0 +1,1195 @@
+@media (max-width: 1780px) and (min-width: 1600px){
+	.jb_banner_left{
+		padding:112px 337px 153px 74px;
+	}
+	.blog_after_img{
+		left:-300px;
+	}
+}
+@media (max-width: 1750px){
+	.jn_menu_partion_div:after{
+		left:40%;
+	}
+	.jb_banner_left{
+		padding:112px 40px 153px 60px;
+	}
+	.download_mockup_design{
+		right:-165px;
+		top:-132px;
+	}
+	.download_mockup_design img{
+		width:750px;
+	}
+	.contact_field_wrapper{
+		padding-left:300px;
+	}
+}
+@media (max-width: 1650px){
+	.contact_field_wrapper{
+		padding-left:250px;
+	}
+	.index_2_category_job{
+		padding:0 30px;
+	}
+	.jb_map_banner_form{
+		padding:80px
+	}
+	.blog_after_img{
+		left:-300px;
+	}
+}
+@media (max-width: 1550px){
+	.jn_menu_partion_div:after {
+		right: 54%;
+	}
+	.menu_btn_box:after{
+		left:-26px;
+	}
+	.contact_field_wrapper{
+		padding-right:250px;
+	}
+	.blog_after_img{
+		right:-350px;
+	}
+}
+@media (max-width: 1500px){
+	.jb_banner_right {
+		width: 700px;
+		background-position: 15px 0;
+	}
+	.jb_banner_left{
+		width:calc(100% - 700px);
+	}
+	.download_mockup_design{
+		right:-145px;
+	}
+	.download_mockup_design img {
+		width: 750px;
+		right: 55px;
+		position: relative;
+		top: -18px;
+	}
+	.job_rivew_wrapper{
+		padding-bottom:170px;
+	}
+	.job_rivew_img img{
+		padding-left:0;
+	}
+}
+@media (max-width: 1430px){
+	.jn_menu_partion_div:after {
+		right: 63%;
+	}
+	.header_btn li{
+		margin-right:5px;
+	}
+	.cp_logo_wrapper{
+		width:15%;
+	}
+	.jb_navigation_wrapper{
+		width:60%;
+		padding-left:50px;
+	}
+	.menu_btn_box{
+		width:25%;
+	}
+	.job_rivew_img img{
+		padding-left:0;
+		width:100%;
+	}
+	.contact_field_wrapper{
+		padding-right:150px;
+	}
+	.index_2_logo{width:20%;}
+	.index_2_right_menu{width:80%;}
+	.jb_map_banner_form{
+		padding:60px;
+	}
+	.index_2_category_job .jb_top_jobs_category{
+		padding:22px 4px 17px 4px;
+	}
+	.counter_2_bg img{
+		left:-100px;
+	}
+	.blog_after_img{
+		right:-500px
+	}
+	.slider_small2_shape{
+		display:none;
+	}
+	.slider_small_shape{
+		left:-220px;
+	}
+	.slider_small3_shape{
+		right:-270px;
+	}
+	.menu_btn_box:after{
+		display:none;
+	}
+}
+@media (max-width: 1330px){
+	.jb_banner_left {
+		padding: 112px 0 153px 40px;
+	}
+	.jb_banner_left {
+		width: calc(100% - 600px);
+	}
+	.jb_banner_right{
+		width:600px;
+	}
+	.menu_btn_box:after {
+		left: -14px;
+	}
+	.download_mockup_design img {
+		width: 700px;
+		left: 121px;
+	}
+	.jb_banner_right:after{
+		width:87%;
+	}
+	.contact_field_wrapper{
+		padding-right:150px;
+	}
+	.posting_job li{
+		margin-right:25px;
+	}
+	.jb_map_banner_form{padding:50px;}
+	.blog_after_img{display:none;}
+	.mainmenu ul li a{
+		padding:40px 16px 30px 16px;
+	}
+}
+@media (max-width: 1220px){
+	.menu_btn_box:after {
+		display:none;
+	}
+	.header_btn li:last-child{
+		margin-right:0;
+	}
+	.jb_saying_content_wrapper p{
+		padding-right:0;
+	}
+	.contact_field_wrapper{
+		padding-right:100px;
+	}
+	.posting_job li{
+		margin-right:20px;
+	}
+	.green_main_menu  ul li a{
+		padding:40px 20px 30px 20px;
+	}
+	.blue_main_menu ul li a {
+		padding: 40px 15px 30px 16px;
+	}
+}
+@media (max-width: 1199px) and (min-width: 991px){
+	.header_btn li:first-child a{
+		display:none;
+	}
+	.jn_menu_partion_div:after {
+		right: 60%;
+	}
+	.cp_logo_wrapper{width:20%; padding-left:0;}
+	.menu_btn_box{
+		width:15%;
+	}
+	.header_btn ul{float:right;}
+	.jb_navigation_wrapper{
+		width:65%;
+		padding-left:0;
+	}
+	.mainmenu ul li a{
+		padding:40px 15px 30px 15px;
+	}
+	.jb_banner_left{
+		width:100%;
+		padding: 100px 120px 153px 175px;
+	}
+	.jb_banner_left h1{
+		font-size:44px;
+		line-height:50px;
+	}
+	.grow_next_img img, .counter_mockup_design img{
+		width:100%;
+	}
+	.counter_mockup_design{left:0;}
+	.job_main_overflow {
+		overflow:auto;
+	}
+	.company_slider_tab{
+		padding-top:0;
+	}
+	.job_rivew_img{display:none;}
+	.job_rivew_testimonial{
+		width:100%;
+		padding:0 60px;
+	}
+	.download_mockup_design{
+		left:-125px;
+		top:-51px;
+	}
+	.download_mockup_design img, .our_blog_content img{
+		width:100%;
+	}
+	.blog_newsleeter{
+		padding:30px;
+	}
+	.open_jobs_wrapper_1 img{width:50px;}
+	.open_job_text{
+		width:calc(100% - 50px);
+	}
+	.pricing_box_wrapper h2{
+		font-size:60px;
+	}
+	.job_rivew_wrapper{
+		padding-top:90px;
+	}
+	.job_field label span{
+		float:none;
+	}
+	.jp_add_resume_cont{
+		padding:40px 12px;
+	}
+	.jp_job_post_right_cont li{margin-left:0;}
+	.jp_add_resume_wrapper{padding:0;}
+	.jp_job_post_right_cont h4 a{
+		padding-bottom:8px;
+	}
+	.map_wrapper_top .map_wrapper, .contact_field_wrapper{
+		width:100%;
+	}
+	.error_top_wrapper  img{
+		width:100%;
+	}
+	.login_form_wrapper{
+		padding:100px 70px 80px 70px;
+	}
+	.signup_wrapper{
+		padding:78px 70px;
+	}
+	.index_2_right_menu{
+		width:80%;
+		padding-left:0;
+		padding-right:0;
+	}
+	.posting_job li{
+		margin-right:22px;
+	}
+	.posting_job li:last-child{
+		margin-right:0;
+	}
+	.index2_agency_wrapper .jb_heading_wraper h3{
+		font-size:26px;
+	}
+	.jb_map_banner_form{
+		padding:50px 30px;
+	}
+	.counter_2_bg img {
+		left: -49px;
+	}
+	.index2_job_right{
+		padding-left:10px;
+	}	
+	.index2_job_left i{
+		width:75px;
+		line-height:75px;
+		height:75px;
+	}
+	.blog_new_cntnt{
+		padding:15px;
+	}
+	.index_3_logo{
+		padding-left:15px;
+	}
+	.index_3_right_menu{
+		padding-right:15px;
+	}
+	.slider_small_shape, .slider_small3_shape, .line_shape, .counter_jbbb2 img, .slider_small_shape44, .clinnt_slider_img{
+		display:none;
+	}
+	.slider_shape_smt1{
+		left:300px;
+	}
+	.slider-area:hover .carousel-nevigation > .prev{
+		left:20px;
+	}
+	.mains_slider_shaper{
+		left:-26%;
+	}
+	.slider-area .carousel-inner .carousel-item .carousel-captions .content h2{
+		font-size:40px;
+	}
+	.slider-area:hover .carousel-nevigation > .next{
+		right:20px;
+	}
+	.index3_download{
+		padding:100px 0;
+	}
+	.counter_jbbb {
+		top: -86px;
+		left: -44px;
+	}
+	.counter_jbbb img{width:100%;}
+	.slider_side_img{
+		position:relative;
+		padding-top:200px;
+		bottom:0;
+		right:0;
+	}
+	.slider_side_img img{width:100%;}
+	.client_wrapper .owl-theme .owl-nav{
+		bottom:90px;
+	}
+	.client_wrapper_cntnt{
+		padding-right:70px;
+	}
+	.top_company_slider_wrapper .owl-theme .owl-nav{
+		top:280px;
+	}
+	.green_main_menu  ul li a{
+		padding:40px 10px 30px 10px;
+	}
+}
+
+@media (max-width: 991px){
+	.mobail_menu{
+		float:left;
+		width:auto;
+	}
+	.cd-dropdown-wrapper{
+		margin: 39px 0 0 0%;
+	}
+	.header_btn ul{
+		float:right;
+	}
+	.house_toggle .menubar{
+		fill:#ff3366;
+	}
+	.cp_logo_wrapper{
+		width:25%;
+		padding-left:10px;
+	}
+	.menu_btn_box{
+		width:60%;
+		padding-right:10px;
+	}
+	.job_main_overflow {
+		overflow-x: scroll;
+	}
+	.header_btn li{
+		margin-right:18px;
+	}
+	.jb_banner_left{
+		width:100%;
+		padding:112px 50px 140px 50px;
+	}
+	.jb_banner_left h1{
+		font-size:44px;
+		line-height:50px;
+	}
+	.jb_top_jobs_category{
+		margin-top:30px;
+	}
+	.jb_top_jobs_category:hover{
+		margin-top:20px;
+	}
+	.pd5{padding:0;}
+	.grow_next_img {
+		margin-top:40px;
+	}
+	.counter_mockup_design img{
+		left:63px;
+	}
+	.top_company_slider_wrapper .owl-theme .owl-nav{
+		left:0;
+		top:-95px;
+	}
+	.company_slider_tab{
+		padding-bottom:100px;
+	}
+	.monthly{
+		float:none;
+		top: -11px;
+		left: 100px;
+	}
+	.pricing_box_wrapper, .blog_newsleeter{
+		margin-bottom:50px;
+	}
+	.job_rivew_img, .download_mockup_design{
+		display:none;
+	}
+	.pricing_plan_wrapper{
+		padding-bottom:50px
+	}
+	.job_rivew_testimonial{
+		width:100%;
+		padding:0 70px;
+	}
+	.download_wrapper{padding:100px 0;}
+	.download_app_store{
+		text-align:right;
+	}
+	.app_btn a{
+		float:right;
+	}
+	.app_btn a.ss_playstore{
+		margin-right:0;
+		margin-left:15px;
+	}
+	.our_blog_content  img, .jb_newslwtteter_left{
+		width:100%;
+	}
+	.jb_newslwtteter_button{width:100%;}
+	.news_btn a{
+		float:right;
+		width:220px;
+		margin-top:30px;
+	}
+	.icon_list_news{
+		margin-top:0;
+	}
+	.copyright_left{
+		padding-top:0;
+	}
+	.footer_border_displ{
+		margin-bottom:50px;
+	}
+	.footer_first_contact li{
+		padding-bottom:15px;
+	}
+	.agency_main_wrapper{
+		padding-bottom:50px;
+	}
+	.job_newsletter_wrapper{
+		border:0; padding:0;
+	}
+	.job_listing_left_side {
+		padding-bottom:80px;
+	}
+	.jp_add_resume_cont .width_50{
+		float:none;
+		display:inline-block;
+	}
+	.jb_job_overview_img{
+		text-align:left;
+	}
+	.web_text h4{font-size:22px;}
+	.pd22 {
+		padding-bottom:50px;
+	}
+	.jp_spotlight_slider_cont_Wrapper li:last-child{
+		margin-top:0;
+		margin-left:30px;
+		margin-bottom:0;
+	}
+	.comments_form{
+		margin-bottom:80px;
+	}
+	.contact_rotate:before{
+		border-left:30px solid #fff;
+	}
+	.contact_rotate:after{
+		border-bottom:10px solid transparent;
+	}
+	.contact_main p{
+		padding:20px;
+	}
+	.map_wrapper_top .map_wrapper, .contact_field_wrapper{
+		width:100%;
+	}
+	.contact_field_wrapper {
+		margin-bottom:0;
+	}
+	.error_top_wrapper  img{
+		width:100%;
+	}
+	.login_banner_wrapper{
+		min-height:500px;
+		width:100%;
+		background-position: center -120px;
+	}
+	.login_form_wrapper{
+		padding:100px 70px 80px 70px;
+		width:100%;
+	}
+	.icon_form{
+		margin-bottom:20px;
+	}
+	.jp_regis_center_tag_wrapper{
+		left:0;
+		right:0;
+		margin:0px auto;
+		top:auto;
+		bottom:-35px;
+	}
+	.index_2_right_menu{
+		width:67%;
+		padding:0;
+	}
+	.posting_job li:last-child{
+		margin-right:0;
+		float:right;
+	}
+	.index_2_top_header .house_toggle .menubar {
+		fill: #57ac60;
+	}
+	.posting_job li{
+		margin-right:15px;
+	}
+	.jb_profile_box .list li{
+		margin:0;
+	}
+	.cd_dropdown_index2 .cd-dropdown-content li a:hover{
+		background: #57ac60;
+	}
+	.jb_map_banner_form{
+		width:40%;
+		min-height:800px;
+	}
+	.map_banner_width{
+		width:60%; height:800px;
+	}
+	.jb_map_banner_form{
+		padding:60px 30px;
+	}
+	.jb_map_indx_wrapper #map{
+		height:828px;
+	}
+	.index_2_category_job .jb_top_jobs_category:hover, .blog_display_Wrapper {
+		margin-top: 30px;
+	}
+	.best_job_back{
+		background:#fff;
+		padding:90px 0;
+	}
+	.counter_2_bg img, .testimonial_wrapper_shape:after, .news_mess_design2 img, .news_mess_design img{
+		display:none;
+	}
+	.blog_new_cntnt{
+		padding-top:50px;
+	}
+	.counter_2_wrapper{
+		padding:90px 0;
+	}
+	.browse_jobs_category{
+		padding-bottom:95px;
+	}
+	.testimonial_wrapper{
+		padding:90px 0;
+		padding-bottom:70px;
+		background: #57ac60;
+    background: -moz-linear-gradient(0deg, rgb(70, 133, 163) 9%, rgb(87, 172, 97) 100%);
+    background: -webkit-linear-gradient(0deg, rgb(70, 133, 163) 9%, rgb(87, 172, 97) 100%);
+    background: linear-gradient(0deg, rgb(70, 133, 163) 9%, rgb(87, 172, 97) 100%);
+	}
+	.testi_main_box_wrapper {
+		padding-top:50px;
+	}
+	.counter_2_wrapper .counter_mockup_design {
+		padding-top:30px;
+	}
+	.padding_tt{margin-top:0;}
+	.pricing_plan_section{
+		padding-top:100px;
+		padding-bottom:50px;
+	}
+	.index2_blog_wrapper{
+		background:#fff;
+		padding-top:100px;
+	}
+	.partner_job_wrapper{
+		padding-top:100px;
+	}
+	.index_3_logo{padding-left:15px;}
+	.index_3_top_header .house_toggle .menubar {
+		fill: #b446ff;
+	}
+	.cd_dropdown_index3 .cd-dropdown-content li a:hover {
+		background: rgb(180, 70, 255);
+		background: -moz-linear-gradient(90deg, rgb(180, 70, 255) 25%, rgb(109, 104, 254) 100%);
+		background: -webkit-linear-gradient(90deg, rgb(180, 70, 255) 25%, rgb(109, 104, 254) 100%);
+		background: linear-gradient(90deg, rgb(180, 70, 255) 25%, rgb(109, 104, 254) 100%);
+	}
+	.slider_small_shape, .slider_small3_shape, .line_shape, .counter_jbbb2 img, .slider_small_shape44, .clinnt_slider_img{
+		display:none;
+	}
+	.slider_shape_smt1{
+		left:300px;
+	}
+	.slider-area:hover .carousel-nevigation > .prev{
+		left:20px;
+	}
+	.mains_slider_shaper{
+		left:-26%;
+	}
+	.slider-area .carousel-inner .carousel-item .carousel-captions .content h2{
+		font-size:40px;
+	}
+	.slider-area:hover .carousel-nevigation > .next{
+		right:20px;
+	}
+	.index3_download{
+		padding:100px 0;
+	}
+	.counter_jbbb {
+		top: -86px;
+		left: -44px;
+	}
+	.slider_side_img{
+		position:relative;
+		padding-top:200px;
+		bottom:0;
+		right:0;
+	}
+	.slider_side_img img{width:100%;}
+	.client_wrapper .owl-theme .owl-nav{
+		bottom:90px;
+	}
+	.client_wrapper_cntnt{
+		padding:50px 50px 100px 50px;
+	}
+	.slider-area .carousel-inner .carousel-item .carousel-captions .content{
+		padding:100px 0;
+	}
+	.slider_side_img, .counter_jbbb, .jp_regis_center_tag_wrapper{
+		display:none;
+	}
+	.counter_index3_right{
+		text-align:left;
+	}
+	.slider-area .carousel-inner .carousel-item .caption-1, .slider-area .carousel-inner .carousel-item .caption-2, .slider-area .carousel-inner .carousel-item .caption-3{
+		min-height:700px;
+	}
+	.mains_slider_shaper {
+		left: -41%;
+	}
+	.counter_3_wrapper{
+		padding:60px 0 80px 0;
+	}
+	.pricing_table_3{
+		padding:90px 0 50px 0;
+	}
+	.popular_wrapper{
+		padding-top:100px;
+	}
+	.jp_regis_left_side_box_wrapper, .jp_regis_right_side_box_wrapper{
+		width:100%;
+	}
+	.jp_register_section_main_wrapper{
+		border-radius:70px;
+	}
+	.jp_regis_left_side_box_wrapper{
+		border-right:0;
+		border-bottom:1px solid #e2e2e2;
+	}
+	.jp_regis_right_side_box_wrapper{
+		padding-top:80px;
+	}
+	.jb_newslwtteter_button .jobs_btn_3{
+		float:left;
+		margin-top:30px;
+		margin-bottom:20px;
+	}
+	.top_hiring_cpmpany_heading{
+		padding-bottom:120px;
+	}
+}
+@media (max-width: 767px){
+	.jb_top_jobs_category:hover{
+		margin-top:30px;
+	}
+	.jb_browse_category{
+		padding:50px 20px;
+	}
+	.counter_mockup_design img{
+		left:0;
+		width:100%;
+	}
+	.company_main_wrapper, .our_blog_content {
+		margin-bottom:50px;
+	}
+	.top_company_wrapper{
+		padding-bottom:50px;
+	}
+	.saying_img{
+		width:100px;
+	}
+	.top_hiring_cpmpany_heading{
+		padding-left:0;
+	}
+	.grow_next_img  img{width:100%;}
+	.filter-area .showpro{
+		float:left;
+		width:100%;
+	}
+	.jp_job_post_right_cont li{
+		margin-left:0;
+	}
+	.jp_job_post_right_btn_wrapper ul{
+		float:left;
+		margin-top:20px;
+	}
+	.jp_job_post_right_btn_wrapper li:nth-child(2){
+		float:left;
+		margin-left:12px;
+	}
+	.jp_job_post_right_btn_wrapper li:last-child{
+		margin-left:12px;
+		margin-top:6px;
+	}
+	.companies_wrapper .company_main_wrapper{
+		margin-bottom:0;
+	}
+	.companies_wrapper .filter-area .nice-select{
+		width:100%;
+	}
+	.web_single_btn ul{
+		padding-top:0;
+	}
+	.jp_first_blog_post_cont_wrapper img{
+		width:100%;
+	}
+	.blog_single_text{
+		width:100%;
+		padding-left:0;
+	}
+	.contact_rotate:before, .contact_rotate:after{
+		display:none;
+	}
+	.contact_main p{
+		padding:40px 30px;
+	}
+	.index_2_right_menu {
+		width: 64%;
+	}
+	.jb_map_banner_form, .map_banner_width{
+		width:100%;
+	}
+	.blog_new_cntnt{
+		padding-top:30px;
+	}
+	.index2_agency_wrapper .jb_heading_wraper h3{
+		font-size:26px;
+	}
+	.index2_agency_wrapper .company_main_wrapper:last-child{
+		margin-bottom:30px;
+	}
+	.index2_blog_wrapper #accordion .card_pagee a.collapsed, .index2_blog_wrapper #accordion .card_pagee a, .index2_blog_wrapper #accordion .card-body{
+		padding-left:0;
+	}
+	.index2_news_box .jb_newslwtteter_left h2{
+		font-size:40px;
+		padding-bottom:15px;
+	}
+	.index2_news_box{
+		padding:40px 20px;
+	}
+	.index2_footer_wrapper{
+		padding-top:200px;
+	}
+	.mains_slider_shaper, .client_shap1, .client_shap2, .client_shap3{
+		display:none;
+	}
+	.main_slider_wrapper{
+		background: #f2efff;
+	}
+	.slider-area .carousel-inner .carousel-item .caption-1, .slider-area .carousel-inner .carousel-item .caption-2, .slider-area .carousel-inner .carousel-item .caption-3 {
+		min-height: 600px;
+	}
+	.slider-area .carousel-inner .carousel-item .carousel-captions .content{
+		padding:130px 0;
+	}
+	.index_3_logo{width:30%;}
+	.index_3_right_menu {
+		width: 60%;
+	}
+	.select_box3{
+		width:100%;
+		border-bottom:1px solid #e2e2e2;
+		border-right:0;
+	}
+	.index3_form_box{
+		border-radius:30px;
+	}
+	.select_box3 .nice-select{
+		border-right:0;
+	}
+	.index3_form_search{
+		width:20%; border-radius:0;
+	}
+	.contct_form_new3{width:80%;}
+	.contect_form3 input{
+		background:transparent;
+	}
+	.index3_listing_jobs, .client_wrapper_cntnt, .jp_register_section_main_wrapper{
+		border-radius:30px;
+	}
+	.client_wrapper .owl-theme .owl-nav{
+		left:-16px;
+	}
+	.footer_index3{padding-top:0;}
+	#return-to-top{
+		width:50px;
+		height:50px;
+		line-height:52px;
+	}
+	#chat-circle{
+		width:50px;
+		height:50px;
+		line-height:40px;
+	}
+	#return-to-top i{
+		font-size:22px;
+	}
+	#return-to-top{
+		bottom:90px;
+	}
+	#chat-circle{
+		z-index:1000;
+	}
+}
+@media (max-width: 766px) and (min-width: 580px){
+	.jb_banner_left {
+		padding: 112px 20px 140px 20px;
+	}
+}
+@media (max-width: 580px){
+	.header_btn li:first-child a{
+		display:none;
+	}
+	.cp_logo_wrapper{
+		padding-right:0;
+	}
+	.cd-dropdown-wrapper{
+		left:-10px;
+	}
+	.menu_btn_box{
+		padding-right:0;
+		margin-right:-20px;
+	}
+	.jb_banner_left{
+		padding:100px 20px;
+	}
+	.jb_banner_list{
+		margin-top:0;
+		padding-top:70px;
+	}
+	.select_box{margin-right:12px;}
+	.select_box_2{margin-right:0;}
+	.jb_banner_left h1 {
+		font-size: 38px;
+		line-height: 50px;
+	}
+	.kj{
+		margin-bottom:0;
+	}
+	.counter_mockup_design{
+		right:0;
+	}
+	.job_rivew_testimonial{
+		padding:0 20px;
+	}
+	.footer_border_displ{margin-bottom:30px;}
+	.icon_list_news {
+		margin-bottom:50px;
+	}
+	.sub_title_section{
+		float:left;
+		top:0;
+	}
+	.about_slider_wrapper .owl-theme .owl-dots{
+		bottom:0;
+	}
+	.team_slider_img_box img{
+		width:100% !important;
+	}
+	.jp_blog_bottom_left_cont, .jp_blog_bottom_right_cont{
+		width:100%;
+	}
+	.jp_blog_bottom_right_cont p a, .jp_blog_bottom_right_cont ul{
+		float:left;
+	}
+	.jp_blog_bottom_right_cont p a{padding-top:10px;}
+	.jp_blog_bottom_right_cont p a span{
+		top: 9px;
+		right: -8px;
+	}
+	.gc_blog_letest_week_wrapper{
+		padding:30px;
+	}
+	.contact_field_wrapper{
+		padding:100px 20px 100px 20px;
+	}
+	.login_banner_wrapper {
+		background-position: center 0;
+	}
+	.login_form_wrapper{
+		padding:60px 30px;
+	}
+	.jb_profile_box{
+		display:none;
+	}
+	.index_2_right_menu {
+		width: 62%;
+	}
+	.testi_main_box_cntnt p{
+		padding-bottom:30px;
+	}
+	.blog_new_img{width:100%;}
+	.blog_new_cntnt{
+		width:100%;
+	}
+	.partner_job_img {
+		text-align:center;
+	}
+	.partner_job_img img{
+		display:inline-block !important;
+		width:auto !important;
+	}
+	.index2_news_box{
+		position:relative;
+		top:0;
+	}
+	.footer_first_contact li i:before{
+		font-size:20px;
+	}
+	.index2_footer_wrapper{
+		padding:100px 0;
+	}
+	.index2_newsletter_wrapper{
+		padding:100px 0;
+	}
+	.index2_listing_jobs .jp_job_post_right_cont{
+		width:calc(89% - 80px);
+	}
+	.testi_main_box_cntnt{
+		padding:30px;
+	}
+	.index2_job_right h3 a{
+		font-size:20px;
+	}
+	.index_3_logo{
+		width:35%;
+		padding-left:15px;
+	}
+	.index_3_right_menu{width:53%;}
+	.select_box3{
+		margin-left:0;
+	}
+	.client_wrapper_cntnt{
+		padding:40px 40px 80px 40px;
+	}
+	.client_wrapper .owl-theme .owl-nav{
+		bottom:70px;
+		left:-30px;
+	}
+	.footer_index3{padding-top:0;}
+	.index_3_logo img{
+		width:140px;
+	}
+	.index_2_top_header{
+		padding-right:15px;
+	}
+	#return-to-top{
+		z-index:10000;
+	}
+}
+@media (max-width: 480px){
+	.cd-dropdown{
+		width:300px;
+	}
+	.team_slider_img_box img{
+		transform:skew(0deg);
+	}
+	.jp_job_post_right_cont{
+		padding-left:0;
+	}
+	.jp_blog_single_client_img, .jp_recent_resume_img_wrapper, .jp_recent_resume_cont_wrapper, .jp_recent_resume_btn_wrapper{
+		width:100%;
+	}
+	.jp_blog_single_client_cont{
+		width:100%;
+		padding-top:30px;
+	}
+	.posting_job{
+		display:none;
+	}
+	.index2_listing_jobs .jp_job_post_right_cont{
+		width:100%;
+		padding-left:0;
+		padding-top:30px;
+	}
+	.counter_right_wrapper h1{
+		font-size:34px;
+	}
+	.index_3_logo{width:50%;}
+	.slider-area .carousel-inner .carousel-item .carousel-captions .content h2 {
+		font-size: 34px;
+		line-height:50px;
+	}
+	.index3_form_box, .index3_listing_jobs, .client_wrapper_cntnt, .jp_register_section_main_wrapper, .jp_recent_resume_box_wrapper{
+		border-radius:10px;
+	}
+	.index3_form_search{
+		width:100%;
+		border-bottom-left-radius:10px;
+		border-bottom-right-radius:10px;
+	}
+	.index3_listing_jobs .jp_job_post_side_img:after{
+		display:none;
+	}
+	.index3_listing_jobs{
+		padding:25px;
+	}
+	.jp_recent_resume_cont_wrapper{
+		padding-left:0;
+		padding-top:15px;
+	}
+	.jp_recent_resume_btn_wrapper ul{
+		float:left;
+	}
+}
+@media (max-width: 440px){
+	.contect_form3{
+		width:100%;
+	}
+	.select_box{
+		width:100%;
+		margin-left:0;
+	}
+	.app_btn a.ss_playstore{
+		margin-right:0;
+		margin-bottom:20px;
+	}
+	.animation-circle-inverse{
+		display:none;
+	}
+	.jb_saying_content_wrapper{
+		padding:30px 20px;
+	}
+	.download_app_store h2{
+		font-size:32px;
+	}
+	#accordion .card_pagee h5{
+		line-height:22px;
+	}
+	.filter-area .list-grid{
+		width:100%;
+		margin-top:14px;
+	}
+	.filter-area .nice-select{
+		width:100%;
+	}
+	.filter-area .list-grid ul li{
+		margin-left:0;
+		margin-right:13px;
+	}
+	.jp_job_post_right_cont{
+		width:100%;
+		padding-top:20px;
+	}
+	.control_wrapper{
+		padding-bottom:60px;
+	}
+}
+@media (max-width: 380px){
+	.jb_banner_left h1 {
+		font-size: 32px;
+		line-height: 40px;
+	}
+	.counter_right_wrapper h1{
+		font-size:36px;
+	}
+	.header_btn li:last-child{
+		display:none;
+	}
+	.counter_right_wrapper  h1{text-align:center;}
+	.counter_width{
+		width:100%;
+		text-align:center;
+		margin-bottom:30px;
+	}
+	.jp_regis_left_side_box_wrapper, .jp_regis_right_side_box_wrapper{
+		padding-left:15px;
+		padding-right:15px;
+	}
+	.pricing_box_wrapper h2{font-size:70px;}
+	.monthly {
+		float: none;
+		top: -20px;
+		right: 80px;
+	}
+	.blog_newsleeter{padding:30px;}
+	.jb_heading_wraper h3{
+		font-size:30px;
+	}
+	.filter-area, .job_listing_left_fullwidth{
+		padding:20px;
+	}
+	.jp_job_post_right_btn_wrapper li:last-child, .job_listing_grid_wrapper .jp_job_post_right_btn_wrapper li:nth-child(2){
+		margin-left:6px;
+	}
+	.jp_job_post_right_btn_wrapper li:nth-child(2), .job_listing_grid_wrapper .jp_job_post_right_btn_wrapper li:last-child{
+		margin-left:7px;
+	}
+	.job_overview_header, .jb_keyword_key_wrapper, .jp_job_res, .jp_first_blog_post_cont_wrapper, .jp_blog_single_client_main_section{
+		padding:25px;
+	}
+	.map_wrapper{padding:0;}
+	.jp_job_des li, .comments_Box .img_wrapper, .comments_Box .text_wrapper{
+		margin-left:0;
+		width:100%;
+	}
+	.comments_Box .text_wrapper{
+		margin-top:20px;
+		padding-left:0;
+	}
+	.jp_listing_left_bottom_sidebar_social_wrapper li{
+		margin-left:5px;
+	}
+	.jp_blog_bottom_right_cont p a{display:none;}
+	.jp_blog_bottom_right_cont ul{
+		margin-top:10px;
+		margin-right:0;
+	}
+	.jp_spotlight_slider_cont_Wrapper li:last-child{
+		margin-left:0;
+	}
+	.login_form_wrapper{
+		padding:60px 20px;
+	}
+	.jb_map_banner_form{
+		padding:30px 15px;
+	}
+	.index_2_category_job{
+		padding:0 10px;
+	}
+	.index2_tab_wrapper .nav-tabs .nav-link {
+		padding: 15px 25px;
+	}
+	.index2_blog_wrapper #accordion h1{
+		margin-bottom:30px;
+		font-size:26px;
+	}
+	.index2_blog_wrapper #accordion .card_pagee a.collapsed, .index2_blog_wrapper #accordion .card_pagee a{
+		padding-right:40px;
+	}
+	.index2_blog_wrapper #accordion .card{
+		margin-bottom:0;
+	}
+	.index2_news_box .jb_newslwtteter_left h2{
+		font-size:32px;
+	}
+	.index_3_logo{width:55%;}
+	.slider-area .carousel-inner .carousel-item .carousel-captions .content h2 {
+		font-size: 28px;
+		line-height: 40px;
+	}
+	.slider_icon_list li {
+		float: left;
+		margin-right: 28px;
+	}
+	#return-to-top, #chat-circle{
+		right:30px;
+	}
+}
