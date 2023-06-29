@@ -135,7 +135,7 @@ Author:
                             $type_user = mysqli_fetch_assoc($result);
                             ?>
                             <li>
-                                <a href="<?= $type_user['permission'] === "0" ? './dashboard/candidate_edit_profile.php' : './dashboard/comp_employer_edit_profile.php' ?> "> ویرایش پروفایل</a>
+                                <a href="<?= $type_user['permission'] === "0" ? './candidate_edit_profile.php' : './comp_employer_edit_profile.php' ?> "> ویرایش پروفایل</a>
                             </li>
                             <li>
                                 <a href="candidate_favourite_job.php">شغل موردعلاقه</a>
